@@ -1,2 +1,2 @@
 # holbertonschool-low_level_programming
-holbertons chool low level programming
+holberton school low level programming
