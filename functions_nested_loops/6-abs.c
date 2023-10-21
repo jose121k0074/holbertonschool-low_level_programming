@@ -3,7 +3,7 @@
  * _abs - determine the absolute
  * @i: variable to function
  * main - code
- * Return: i 
+ * Return: i
  */
 int _abs(int i)
 {
