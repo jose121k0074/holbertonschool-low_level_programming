@@ -12,7 +12,8 @@ for (alpha = 'a'; alpha <= 'z'; alpha++)
 {
 if (alpha != 'e')
 {
-if(alpha != 'q'){
+if (alpha != 'q')
+{
 putchar(alpha);
 }
 }
