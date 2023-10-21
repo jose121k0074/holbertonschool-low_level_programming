@@ -17,7 +17,7 @@ _putchar(c + '0');
 else if (c > 9)
 {
 d = c % 10;
-d /= 10;
+c /= 10;
 _putchar(',');
 _putchar(' ');
 _putchar(c + '0');
