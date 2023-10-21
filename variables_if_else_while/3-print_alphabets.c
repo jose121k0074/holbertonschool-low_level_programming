@@ -10,7 +10,7 @@ char alpha;
 
 for (alpha = 'a'; alpha<= 'z'; alpha++)
 {
-putchar(abc);
+putchar(alpha);
 }
 for (alpha = 'A'; alpha <= 'Z'; alpha++)
 {
