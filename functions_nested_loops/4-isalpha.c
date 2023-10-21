@@ -3,7 +3,7 @@
  * _isalpha - checks si is alphabet
  * @c: variable c
  * main - principal
- * Return: 0 
+ * Return: 0
  */
 int _isalpha(int c)
 {
