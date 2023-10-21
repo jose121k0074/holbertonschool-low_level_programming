@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * add - prints add
- *@x: 1 value
- *@y: 2 value
+ *@a: 1 value
+ *@b: 2 value
  * main -code
  * Return: suma
  */
