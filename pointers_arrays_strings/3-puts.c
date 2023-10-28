@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 
 /**
  * _puts - print a string
@@ -11,8 +11,8 @@ void _puts(char *str)
 
 	while(str != '\0')
 	{
-		_putchar(str[i];
+		_putchar(str[i]);
 		i++;
 	}
-	_putchar(\n');
+	_putchar('\n');
 }
