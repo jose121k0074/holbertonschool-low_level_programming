@@ -1,6 +1,6 @@
 #include "main.h"
 
-/*
+/**
  * _strlen - funcion strlen
  * @s: variable s
  */
