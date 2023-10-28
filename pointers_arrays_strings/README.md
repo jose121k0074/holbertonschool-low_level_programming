@@ -1,3 +1,12 @@
 files:
 - 0-reset_to_98.c - reset variable to 98 value.
-- 1-swap
+- 1-swap.c - function that sqaps the values of two integers
+- 2-strlen.c - returns the length of a string
+- 3-puts.c - prints a string
+- 4-print_rev.c - prints a string, in reverse
+- 5-rev_string.c - reverses a string 
+- 6-puts2.c - prints every other character of a string
+- 7-puts_half.c - prints half of a string
+- 8-print_array.c - prints n elemts of an array
+- 9-strcpy.c - copies the string pointed to by src
+- 100-atoi.c - convert a string to an integer
