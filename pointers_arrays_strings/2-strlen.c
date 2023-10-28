@@ -1,8 +1,10 @@
 #include "main.h"
+
 /*
- * strlen - funcion strlen
+ * _strlen - funcion strlen
  * @s: variable s
  */
+
 int _strlen(char *s)
 {
 	int i = 0;
