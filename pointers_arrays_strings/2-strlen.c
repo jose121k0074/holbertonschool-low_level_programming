@@ -2,13 +2,14 @@
 
 /**
  * _strlen - funcion strlen
- * @s: variable 
+ * @s: variable
  * Return: the length of a string
  */
 
 int _strlen(char *s)
 {
 	int i = 0;
+
 	while (*s != '\0')
 	{
 		s++;
