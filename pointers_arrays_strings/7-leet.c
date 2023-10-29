@@ -2,7 +2,7 @@
 
 /**
  * leet - cambio de character
- * @a: string to capital
+ * @s: string to capital
  * Return: capitalized words
  */
 
