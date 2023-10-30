@@ -10,6 +10,7 @@
 char *_strchr(char *s, char c)
 {
 int i = 0;
+char d = 'no hay';
 
 while (s[i])
 {
@@ -19,5 +20,5 @@ return (s + i);
 }
 i++;
 }
-return ('no hay');
+return (d);
 }
