@@ -10,8 +10,9 @@
 char *_strchr(char *s, char c)
 {
 int i = 0;
-char *d = "no hay";
 
+if (c != '\0')
+{
 while (s[i])
 {
 if (s[i] == c)
@@ -20,5 +21,9 @@ return (s + i);
 }
 i++;
 }
-return (d);
+return ('\0');
+}
+else
+{
+return;
 }
