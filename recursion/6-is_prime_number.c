@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _divisible
+ * _divisible - function hel is prime number
  * @n: number
  * @x: checks if n is divisible
  * Return: 0 not prime, 1 if prime
