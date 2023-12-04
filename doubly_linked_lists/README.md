@@ -17,4 +17,5 @@ files in the folder:
 - 4-free_dlistint.c - function that frees a dlistint_t list.
 - 5-get_dnodeint.c - function that returns the nth node of a dlistint_t linked list.
 - 6-sum_dlistint.c - function that returns the sum of all the data (n) of a dlistint_t linked
-- 
+- 7-insert_dnodeint.c - function that inserts a new node at a given position.
+-  
