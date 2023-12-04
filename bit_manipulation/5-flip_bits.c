@@ -10,7 +10,9 @@
 
 unsigned int flip_bits(unsigned long int n, unsigned long int m)
 {
-	int len = 0, verf;
+	int len = 0;
+	unsigned long int verf = 0;
+
 
 	verf = (n ^ m);
 	while (verf)
@@ -20,3 +22,4 @@ unsigned int flip_bits(unsigned long int n, unsigned long int m)
 	}
 	return (len);
 }
+
