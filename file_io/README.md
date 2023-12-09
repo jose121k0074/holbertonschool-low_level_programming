@@ -15,3 +15,4 @@ files:
 - _putchar.c - prototype of write.
 - main.h - header file
 - 0-read_textfile.c - function that reads a text file and prints it to the POSIX standard output.
+- 1-create_file.c -  function that creates a file.
