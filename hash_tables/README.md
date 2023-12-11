@@ -18,4 +18,4 @@ files in the folder:
 - 3-hash_table_set.c - function that adds an element to the hash table.
 - 4-hash_table_get.c - function that retrieves a value associated with a key.
 - 5-hash_table_print.c - function that prints a hash table
-- 
+- 6-hash_table_delete.c - function that deletes a hash table. 
